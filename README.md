@@ -1,4 +1,4 @@
-# Project Deployed In by Vercel , Deployed link is given below:
+# Project Deployed  by Vercel , Deployed link is given below:
 
 WebSite Link: https://quick-blog-full-stack-seven.vercel.app/
 
