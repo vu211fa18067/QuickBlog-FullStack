@@ -1,4 +1,7 @@
-#Project Deployed In by Vercel , Deployed link is given below:
+# Project Deployed In by Vercel , Deployed link is given below:
+
+admin : gmaresh326@gmail.com
+password: abc@1234
 https://quick-blog-full-stack-seven.vercel.app/
 
 
